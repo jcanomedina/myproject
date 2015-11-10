@@ -1,5 +1,5 @@
 
-	- Lista de comandos Subversion
+	- Lista de comandos Subversion v21
 		- Ayuda: svn help
 		- Status (ficheros pendientes de subir): svn status
 		- Ver informacion de la carpeta local o recurso remoto si se especifica url -> svn info
@@ -7,3 +7,4 @@
 		- Bloquear / desbloquear un recurso -> svn lock <recurso> / svn unlock <recurso>
 		- Hacer commit -> svn commit <recurso> --message "mensaje"
 eeee
+

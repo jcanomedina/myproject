@@ -1,0 +1,9 @@
+
+	- Lista de comandos Subversion
+		- Ayuda: svn help
+		- Status (ficheros pendientes de subir): svn status
+		- Ver informacion de la carpeta local o recurso remoto si se especifica url -> svn info
+		- Actualizar directorio (working copy) con el contenido remoto -> svn update
+		- Bloquear / desbloquear un recurso -> svn lock <recurso> / svn unlock <recurso>
+		- Hacer commit -> svn commit <recurso> --message "mensaje"
+eeee
